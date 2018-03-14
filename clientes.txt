@@ -1,0 +1,52 @@
+EMPRESA: MINDEF
+CLIENTES DE: España
+
+
+	ID: BOLID
+	nombre: Bólido Comidas preparadas
+	Contacto: Martín Sommer
+	CargoContacto: Propietario
+	Direccion: C/ Araquil, 67
+	Ciudad: Madrid
+	Pais: España
+	Telefono: (91) 555 22 82
+
+
+	ID: FISSA
+	nombre: FISSA Fabrica Inter. Salchichas S.A.
+	Contacto: Diego Roel
+	CargoContacto: Gerente de contabilidad
+	Direccion: C/ Moralzarzal, 86
+	Ciudad: Madrid
+	Pais: España
+	Telefono: (91) 555 94 44
+
+
+	ID: GALED
+	nombre: Galería del gastrónomo
+	Contacto: Eduardo Saavedra
+	CargoContacto: Gerente de marketing
+	Direccion: Rambla de Cataluña, 23
+	Ciudad: Barcelona
+	Pais: España
+	Telefono: (93) 203 4560
+
+
+	ID: GODOS
+	nombre: Godos Cocina Típica
+	Contacto: José Pedro Freyre
+	CargoContacto: Gerente de ventas
+	Direccion: C/ Romero, 33
+	Ciudad: Sevilla
+	Pais: España
+	Telefono: (95) 555 82 82
+
+
+	ID: ROMEY
+	nombre: Romero y tomillo
+	Contacto: Alejandra Camino
+	CargoContacto: Gerente de contabilidad
+	Direccion: Gran Vía, 1
+	Ciudad: Madrid
+	Pais: España
+	Telefono: (91) 745 6200

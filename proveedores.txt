@@ -1,0 +1,22 @@
+EMPRESA: MINDEF
+PROVEEDORES DE: España
+
+
+	ID: 5
+	nombre: Cooperativa de Quesos 'Las Cabras'
+	Contacto: Antonio del Valle Saavedra 
+	CargoContacto: Administrador de exportaciones
+	Direccion: Calle del Rosal 4
+	Ciudad: Oviedo
+	Pais: España
+	Telefono: (98) 598 76 54
+
+
+	ID: 30
+	nombre: El pozo
+	Contacto: Tomas Gomez
+	CargoContacto: Director Comercial
+	Direccion: C/Mayor 25 bajo
+	Ciudad: Murcia
+	Pais: España
+	Telefono: 963 123 456
